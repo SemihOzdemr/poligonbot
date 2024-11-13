@@ -1,0 +1,153 @@
+ {
+    
+    "guildid": "1232092012686217298",
+    "invitePrivateLogChannel": "1232112518726553640",
+    "invitePublicLogChannel": "1232770471787892886",
+    "VoiceLogChannel": "1232112616642449439",
+    "botErrorLogChannel": "1232887797405188116",
+    "registerChannelId": "1235116349102100530",
+    "ticketChannelId": "1232459632132493333",
+    "storeChannelId": "1235429493552840835",
+    "generalChannelId": "1232095684103110667",
+    "roleSelectChannelId": "1232459119064252448",
+    "unregisterRole": "1233830879147593798",
+    "newMemberRole": "1232098819412332626",
+    "ticketRole": "1235382485169209414",
+    "storeStaffRole": "1235784873772585012",
+    "coinConfigs": {
+        "coinName": "Policoin",
+        "coinEmoji": "<:coin:1233147074380435486>",
+        "inviteCoinCount": 10,
+        "voicePerOneMinuteCoinCount": 0.50,
+        "perOneMessageCoinCount": 0.25,
+        "yuzde": 5
+    },
+    "createChannelIds": [
+        {
+            "name": "İkili Oda #",
+            "id": "1232092013181140995",
+            "memberCount": 2
+        },
+        {
+            "name": "Üçlü Oda #",
+            "id": "1232448964075323485",
+            "memberCount": 3
+        },
+        {
+            "name": "Dörtlü Oda #",
+            "id": "1232449046581477436",
+            "memberCount": 4
+        },
+        {
+            "name": "Beşli Oda #",
+            "id": "1232449128915669013",
+            "memberCount": 5
+        },
+        {
+            "name": "Limitsiz Oda #",
+            "id": "1232516372098056254",
+            "memberCount": 0
+        }
+    ],
+    "selectGameRoles": [
+        {
+            "id": "1232102210695987200",
+            "name":"Valorant",
+            "emojiID": "1232514481054023760",
+            "emojiName": "valorant"
+        },
+        {
+            "id": "1232102209928433784",
+            "name":"League of Legends",
+            "emojiID": "1232514693609033799",
+            "emojiName": "LeagueofLegends"
+        },
+        {
+            "id": "1232102209391558696",
+            "name":"Counter Strike 2",
+            "emojiID": "1236423426756055112",
+            "emojiName": "counterstrike2"
+        },
+        {
+            "id": "1232102207541870704",
+            "name":"GTA V",
+            "emojiID": "1236408963776385024",
+            "emojiName": "gtav"
+        },
+        {
+            "id": "1232102205017034862",
+            "name":"Minecraft",
+            "emojiID": "1232514604014370856",
+            "emojiName": "minecraft"
+        },
+        {
+            "id": "1232102238470672475",
+            "name":"Roblox",
+            "emojiID": "1232515359530287158",
+            "emojiName": "roblox"
+        },
+        {
+            "id": "1232507397797318758",
+            "name":"ETS 2",
+            "emojiID": "1232514571722559569",
+            "emojiName": "ets2"
+        },
+        {
+            "id": "1232512081060823101",
+            "name":"FC 24",
+            "emojiID": "1236423132085092463",
+            "emojiName": "fc24"
+        },
+        {
+            "id": "1232510374046339143",
+            "name":"Apex Legends",
+            "emojiID": "1236423125944766614",
+            "emojiName": "apexlegends"
+        },
+        {
+            "id": "1232510106693013594",
+            "name":"Genshin Impact",
+            "emojiID": "1236423743824203778",
+            "emojiName": "genshinimpact"
+        },
+        {
+            "id": "1232507822915326072",
+            "name":"PUBG",
+            "emojiID": "1236424095105683456",
+            "emojiName": "pubg"
+        },
+        {
+            "id": "1232508196547989517",
+            "name":"PUBG Mobile",
+            "emojiID": "1236423145003548732",
+            "emojiName": "pubgmobile"
+        },
+        {
+            "id": "1232508059524534364",
+            "name":"Mobile Legends",
+            "emojiID": "1236423365871534131",
+            "emojiName": "mobilelegends"
+        }
+    ],
+    "selectWatchRoles": [
+        {
+            "id": "1232464348828405841",
+            "name":"Twitch İzleyicisi",
+            "emojiID": "1232514818649493515",
+            "emojiName": "twitch"
+        },
+        {
+            "id": "1232516131646996520",
+            "name":"Kick İzleyicisi",
+            "emojiID": "1232515081766699139",
+            "emojiName": "Kick"
+        },
+        {
+            "id": "1232464394265563136",
+            "name":"Youtube İzleyicisi",
+            "emojiID": "1232514919937609770",
+            "emojiName": "youtube"
+        }
+    ],
+    "streamerChannelId": "1247675487329980457"
+}
