@@ -7,7 +7,7 @@
 	"author": "Semih",
 	"license": "MIT",
 	"dependencies": {
-		"body-parser": "^1.20.2",
+		"body-parser": "^2.2.1",
 		"cors": "^2.8.5",
 		"discord.js": "^14.11.0",
 		"dotenv": "^16.4.5",
